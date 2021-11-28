@@ -5,6 +5,6 @@
 ### Αισθητήρας Θερμοκρασίας και Υγρασίας χώρου σε ένα site από οποιαδήποτε συσκευή μέσω WiFi (Arduino)
 
 Εξαρτήματα για την δημιουργία του αισθητήρα:
-- Arduino Uno R3
+- Arduino Uno R3 - Οδηγίες: https://www.arduino.cc/en/Guide/ArduinoUno
 - esp8266 WiFi Module
 - Αισθητήρας Υγρασίας και Θερμοκρασίας DHT11
