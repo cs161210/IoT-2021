@@ -1,0 +1,9 @@
+cd ./src-local/instance/poc-datacollector
+
+./tools/poc-dummy-ls
+
+./tools/poc-dummy-create device-1
+
+./tools/poc-dummy-send device-1 "Hello World"
+
+./tools/poc-dummy-log device-1
