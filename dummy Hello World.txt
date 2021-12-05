@@ -1,9 +1,23 @@
-cd ./src-local/instance/poc-datacollector
+Βήματα για την επίτευξη του πρώτου σεναρίου
 
-./tools/poc-dummy-ls
+Στο Linux Terminal κάνουμε τα εξής :
 
-./tools/poc-dummy-create device-1
+1) cd swarmlab-hybrid
 
-./tools/poc-dummy-send device-1 "Hello World"
+2) ./start.sh
 
-./tools/poc-dummy-log device-1
+3) cd ./src-local/instance/poc-datacollector
+
+4) ./tools/poc-dummy-ls
+
+5) ./tools/poc-dummy-create device-1
+
+6) ./tools/poc-dummy-send device-1 "Hello World"
+
+7) ./tools/poc-dummy-log device-1
+
+Μετά κάνουμε είσοδο στο http://localhost:3088/ για να μπούμε στο Swarmlab Hybrid
+
+Μέτα πάμε στο Instances -> Container -> webclient -> Actions -> Connect -> Click here to open the Web_App
+
+Μετά κάνουμε κλίκ στο Search button και έτσι στο ιστορικό εμφανίζεται η καταχώρηση Hello World που κάναμε
