@@ -11,7 +11,7 @@
 
 Οδηγίες Εγκατάστασης του DHT11 library στο Arduino IDE : Σχέδιο -> Συμπερίληψη βιβλιοθήκης -> Προσθήκη Βιβλιοθήκης ZIP
 
-Link DTH11 library : https://github.com/adidax/dht11 Όταν μπείτε μέσα στο link πατήστε στην επιλογή Code και μετά πατήστε Download ZIP
+Link DTH11 library : https://github.com/adidax/dht11 (Όταν μπείτε μέσα στο link πατήστε στην επιλογή Code και μετά πατήστε Download ZIP)
 
 Link αποτελεσμάτων αισθητήρα : https://thingspeak.com/channels/1598392
 
