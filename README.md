@@ -6,5 +6,7 @@
 
 Εξαρτήματα για την δημιουργία του αισθητήρα:
 - Arduino Uno R3 - Οδηγίες: https://www.arduino.cc/en/Guide/ArduinoUno
-- esp8266 WiFi Module
+- esp8266 WiFi Module (Σύνδεση mobile hotspot με ενεργοποιημένα τα δεδομένα(3G/4G/5G) η σε οποιοδήποτε δίκτυο μέσω του SSID και του Password του Router μέσω του Arduino Κώδικα)
 - Αισθητήρας Υγρασίας και Θερμοκρασίας DHT11
+
+Link αποτελεσμάτων αισθητήρα : https://thingspeak.com/channels/1598392
