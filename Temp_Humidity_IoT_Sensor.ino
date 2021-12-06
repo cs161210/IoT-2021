@@ -2,8 +2,8 @@
 #include <SoftwareSerial.h> 
                                   
 
-String agAdi = "Galaxy A30s634D";                 // We write the name of our network here.    
-String agSifresi = "xhnm3614";           // We write the password of our network here.
+String agAdi = "SSID";                 // We write the name of our network here.    
+String agSifresi = "password";           // We write the password of our network here.
 
 int rxPin = 10;                                               //ESP8266 RX pini
 int txPin = 11;                                               //ESP8266 TX pini
