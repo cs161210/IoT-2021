@@ -11,4 +11,6 @@
 
 Οδηγίες Εγκατάστασης του DHT11 library στο Arduino IDE : Σχέδιο -> Συμπερίληψη βιβλιοθήκης -> Προσθήκη Βιβλιοθήκης ZIP
 
+Χαρακτηριστικά DHT11: https://components101.com/sensors/dht11-temperature-sensor
+
 Link αποτελεσμάτων αισθητήρα : https://thingspeak.com/channels/1598392
